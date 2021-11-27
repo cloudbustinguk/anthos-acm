@@ -1,6 +1,5 @@
-# ./kustomization.yaml
 resources:
-- base
+  - base
 
 patches:
 - path: ignore-deployment-mutation-patch.yaml
