@@ -1,5 +1,5 @@
 # ./kustomization.yaml
- resources:
+resources:
 - base
 
 patches:
